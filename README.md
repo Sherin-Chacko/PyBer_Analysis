@@ -21,3 +21,16 @@ The following key metrics were calculated and a dataframe was created to observe
 
 A multiple line chart was also created as follows as part of the analysis to help us visualize and perform analysis of the Total Fares from January 1 2019 to April 29th 2019 for each of the city types. 
 
+![Pyber_fare_summary](https://user-images.githubusercontent.com/91294352/141050238-2d7430bc-463b-45f9-b58c-c15b023d68ef.png)
+
+* We observe from the graph above that Urban city types had the highest total fares for all the weeks and rural areas had the least. 
+* We can also infer that the 3rd week of February has the highest total fares for each of the city type showing increased demand during that time. 
+* Towards the start of January 2019 and towards the end of April, all Fares for each city type are showling decline.
+
+## 3) SUMMARY :
+
+Following are the recommendtions for addressing any disparities among the cty types:
+
+* Urban cities have the highest total fare and the highest number of rides and therefore it accounts for most of the revenue for the company. Therfore, this is the best performing city type and more investments should be continued to be made in this type to earn greater profits for PyBer in the future.
+* Rural cities account for the least amount of rides and the least amount of fares among all the types, however average fare per ride is the highest for this city type. 
+* The suburban city type is the middle performing city type in all the metrics calculated, therefore more investments can be directed towards Urban and Rural city types, as this city type can continue and perform as it is doing currently for PyBer.
