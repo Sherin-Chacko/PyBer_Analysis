@@ -3,7 +3,7 @@ Module 5
 
 ## 1) OVERVIEW OF THE ANALYSIS :
 
-The purpose of the analysis is to create a summary dataframe that will show ride sharing data by city type (Rural, Urban & Sub-urban). We then will create a multiple line graph that shows total weekly fares by each city type. Using data visualization techniques, we give insight into the data from a ride sharing company called PyBer.
+The purpose of the analysis is to create a summary dataframe that will show ride sharing data by city type (Rural, Urban & Sub-urban). We then create a multiple line graph that shows total weekly fares by each city type. Using data visualization techniques, we give insight into the data from a ride sharing company called PyBer.
 
 RESOURCES:
 
